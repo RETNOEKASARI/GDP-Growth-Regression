@@ -20,8 +20,6 @@ Penelitian ini bertujuan untuk:
 
 ## Dataset
 
-## Dataset
-
 Dataset yang digunakan berasal dari:
 
 - Kaggle: Global Economic Indicators (2010–2025) – World Bank
