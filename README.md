@@ -47,7 +47,7 @@ Variabel yang digunakan:
 
 ---
 
-## 🛠️ Library yang Digunakan
+## Library yang Digunakan
 
 ```r
 library(tidyverse)
